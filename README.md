@@ -6,7 +6,7 @@
 
 [**Paper (arXiv)**](https://arxiv.org/abs/2607.28759)
 
-> **Repository status:** The code is currently being organized and will be released in this repository. This preliminary version provides an overview of SCMA and representative experimental results.
+> **Repository status:** An initial code release is available. A more complete implementation is being organized for a subsequent update.
 
 ## Abstract
 
@@ -91,7 +91,7 @@ The manuscript also evaluates CTSpine1K, where scanner projections are unavailab
 
 ## Code
 
-Training and inference code, pretrained models, environment requirements, and usage instructions will be added after the implementation has been organized and verified.
+This repository contains the initial SCMA code release. Additional code and usage documentation will be added as they are organized.
 
 ## Citation
 
