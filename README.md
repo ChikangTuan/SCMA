@@ -1,6 +1,6 @@
 # SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction
 
-**Heran Wang, Jianing Sun, Xu Jiang, Genwei Ma, Jigang Duan<sup>*</sup>, and Xing Zhao<sup>*</sup>**
+**Heran Wang, Jianing Sun, Xu Jiang, Genwei Ma, Jigang Duan<sup>&#42;</sup>, and Xing Zhao<sup>&#42;</sup>**
 
 *Corresponding authors: Jigang Duan and Xing Zhao.*
 
